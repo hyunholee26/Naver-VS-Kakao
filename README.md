@@ -1,2 +1,2 @@
 # Naver-VS-Kakao
-Naver-VS-Kakao
+This is for [dacon](https://dacon.io/) data analysis and visualization competition. Dacon is a kind of company carrying out data competition in South Korea like Kaggle. When I want to concentrate on something, I usually make some notes, especially data analysis and visualization. It is one of my favorite hobbies. Thesedays I have under pressure of graduate school admission, so I need something to focus on it for several times.   
